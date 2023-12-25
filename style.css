@@ -27,11 +27,11 @@ h2 {
 }
 
 .table1 th, .table1 td {
-    border: 1px solid palevioletred; /* Add borders to header cells and data cells */
-    padding: 8px; /* Add padding for better spacing */
+    border: 1px solid palevioletred;
+    padding: 8px; 
 }
 
 .table2 th, .table2 td {
-    border: 1px solid palevioletred; /* Add borders to header cells and data cells */
-    padding: 8px; /* Add padding for better spacing */
+    border: 1px solid palevioletred; 
+    padding: 8px; 
 }
