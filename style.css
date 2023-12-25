@@ -1,1 +1,37 @@
+body {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    margin-top: 20px;
+}
 
+h2 {
+    color: rgb(121, 41, 186);
+}
+
+.table1 {
+    border: 3px rgb(186, 41, 89) solid;
+}
+
+.table2 {
+    border: 3px rgb(186, 41, 89) solid;
+}
+
+.table1Head1 {
+    background-color: palevioletred;
+}
+
+.table1Head2 {
+    background-color: palevioletred;
+}
+
+.table1 th, .table1 td {
+    border: 1px solid palevioletred; /* Add borders to header cells and data cells */
+    padding: 8px; /* Add padding for better spacing */
+}
+
+.table2 th, .table2 td {
+    border: 1px solid palevioletred; /* Add borders to header cells and data cells */
+    padding: 8px; /* Add padding for better spacing */
+}
